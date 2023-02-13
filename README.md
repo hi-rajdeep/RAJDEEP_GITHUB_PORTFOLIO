@@ -1,4 +1,4 @@
-img src=<"https://drive.google.com/file/d/1KggExsxbnxHjb2kWjA9N3Nw-xcmBuFny/view?usp=sharing">
+# <img src="https://drive.google.com/file/d/1KggExsxbnxHjb2kWjA9N3Nw-xcmBuFny/view?usp=sharing">
 
 # 💫 About Me:
 Rajdeep is an aspiring data analyst with a passion for turning raw data into actionable insights. Rajdeep has a strong foundation in math and statistics, and always looking for new ways to apply his skills to real-world problems. In his free time, you'll find him tinkering with data sets and exploring new tools and techniques. <br><br>In Working experience, Rajdeep is an Analytically driven professional having working in Management Information Systems for around 2+ years, and around 3+ years of experience overall ,in helping business <br>scale up and achieve operational excellence.<br><br>Now Rajdeep is looking to build his career as a Data Science Enthusiast, with a view to grow his career in the field of Analytics.
