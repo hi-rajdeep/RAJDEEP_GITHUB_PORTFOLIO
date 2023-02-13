@@ -80,3 +80,8 @@ STAR CEMENT, Guwahati (NOV/2016) – (MAR/2018)**
 [![](https://visitcount.itsvg.in/api?id=hi-rajdeep&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashutosh-pmishra&show_icons=true&locale=en&layout=compact" alt="ashutosh-pmishra" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashutosh-pmishra&show_icons=true&locale=en" alt="ashutosh-pmishra" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashutosh-pmishra&" alt="ashutosh-pmishra" /></p>
