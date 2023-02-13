@@ -51,7 +51,8 @@ STAR CEMENT, Guwahati (NOV/2016) – (MAR/2018)**
 · Handled and oversaw the daily transport of art and objects.
 
 ## 📕 Education:
-**B.com (Management hons.) from K.C.DAS.COMMERCE.COLLEGE**
+**B.COM (Management hons.) from K.C.DAS.COMMERCE.COLLEGE** - 2014
+**GOOGLE CERTIFIED DATA ANALYST** 
 
 
 ## 🌐 Socials:
