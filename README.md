@@ -58,7 +58,7 @@ STAR CEMENT, Guwahati (NOV/2016) – (MAR/2018)**
 (2020-2021)
 
 -📕Bachelor of Commerce (management)| K. C. Das Commerce College Guwahati 
-(2012-2014
+(2012-2014)
 
 
 ## 🌐 Socials:
