@@ -3,10 +3,11 @@
 # 💫 About Me:
 Rajdeep is an aspiring data analyst with a passion for turning raw data into actionable insights. Rajdeep has a strong foundation in math and statistics, and always looking for new ways to apply his skills to real-world problems. In his free time, you'll find him tinkering with data sets and exploring new tools and techniques. <br><br>In Working experience, Rajdeep is an Analytically driven professional having working in Management Information Systems for around 2+ years, and around 3+ years of experience overall ,in helping business <br>scale up and achieve operational excellence.<br><br>Now Rajdeep is looking to build his career as a Data Science Enthusiast, with a view to grow his career in the field of Analytics.
 
-I am an Aspiring Data Analyst looking for opportunities and collabaration in projects related to Data Analytics.
 - 🔭 I’m currently working on Projects (also, I am brushing up my data structures and algorithms skills regularly).
 - 🌱 I’m currently learning Data Science & Machine Learning Language .
 - 🤝 I’m looking to collaborate on data science and machine learning projects. 
+
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 #	💼 **Work Experience :**
 
