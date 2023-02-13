@@ -50,7 +50,7 @@ STAR CEMENT, Guwahati (NOV/2016) – (MAR/2018)**
 · Warehousing (material receipt, dispatch order, stock maintenance).
 · Handled and oversaw the daily transport of art and objects.
 
-## 📕 Education:
+## ✒️ Education:
 -📕Data Analytics with Visualization| IVY Professional School, Kolkata 
 (Currently pursuing)
 
