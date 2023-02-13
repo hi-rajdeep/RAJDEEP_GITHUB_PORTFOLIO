@@ -51,9 +51,12 @@ STAR CEMENT, Guwahati (NOV/2016) – (MAR/2018)**
 · Handled and oversaw the daily transport of art and objects.
 
 ## 📕 Education:
-📌**B.COM (Management hons.) from K.C.DAS.COMMERCE.COLLEGE** - 2014
-
-📌**GOOGLE CERTIFIED DATA ANALYST** 
+📕Data Analytics with Visualization| IVY Professional School, Kolkata 
+(Currently pursuing)
+📕Post graduate Diploma in Computer Application | Excel-IT, Guwahati 
+(2020-2021)
+📕Bachelor of Commerce (management)| K. C. Das Commerce College Guwahati 
+(2012-2014
 
 
 ## 🌐 Socials:
