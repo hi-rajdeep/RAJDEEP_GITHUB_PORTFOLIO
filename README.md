@@ -10,7 +10,7 @@ Rajdeep is an aspiring data analyst with a passion for turning raw data into act
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 # 💼 **CLICK HERE FOR MY RESUME** 
-(https://drive.google.com/file/d/1wVluQslq__Uk_iasWSDvESK8LXru5ces/view?usp=sharing)
+(https://drive.google.com/file/d/1nLyrJDcuF28_fRUIEe4p5UOWvBA6yaEm/view?usp=sharing)
 
 # 🌎 **CLICK HERE FOR MY WEBSITE PORTFOLIO** 
 https://brick-ninja-1869.typedream.app/
