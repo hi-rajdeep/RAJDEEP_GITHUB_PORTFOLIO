@@ -12,6 +12,9 @@ Rajdeep is an aspiring data analyst with a passion for turning raw data into act
 # 💼 **CLICK HERE FOR MY RESUME** 
 (https://drive.google.com/file/d/1wVluQslq__Uk_iasWSDvESK8LXru5ces/view?usp=sharing)
 
+# 🌎 **CLICK HERE FOR MY WEBSITE PORTFOLIO** 
+https://brick-ninja-1869.typedream.app/
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rajdeep-chakraborty) [![GMAIL](https://img.shields.io/badge/GMAIL-%230077B5.svg?logo=GMAIL&logoColor=RED)](mr.rajdeep.chakraborty@gmail.com)
