@@ -11,59 +11,6 @@ Rajdeep is an aspiring data analyst with a passion for turning raw data into act
 
 # **CLICK HERE FOR MY RESUME** (https://drive.google.com/file/d/1wVluQslq__Uk_iasWSDvESK8LXru5ces/view?usp=sharing)
 
-#	💼 **Work Experience :**
-
-📌**OPERATIONS EXECUTIVE (Credit Card Div.)| AXIS BANK, Guwahati 
-(MAY/2021) – (DEC/2021)**
-· CRM update, Sales Report Region wise
-· Customer analysis with Eligibility checking criteria’s.
-· Lead extraction, Follow-up with Sales Team
-· Daily Basis M.I.S Report
-· Team Handling
-
-📌**MARKETING AND BRANDING EXECUTIVE | JCB INDUSTRIES (AADYA), Guwahati 
-(JUL/2020) – (FEB/2021)**
-· Product Launching, Pricing & Costing and Packaging 
-· Managed all customer, distributor, retailer and vendor relationships, negotiating terms, 
-scope and deadlines
-· Market Research and competitor’s analysis and a detailed analysis of customer feedback
-· Website Building, Online marketing
-· Conducted effective Promotion & Branding techniques which helped to reduce the customer 
-acquisition cost to +20%
-· Distribution and stock Availability.
-· worked closely to present key insights derived from reports in Excel to understand customer 
-needs, market trends and to present it to the management.
-
-📌**MANAGEMENT INFORMATION SYSTEM (SALES CO-COORDINATOR) |
-ANNAPURNA GROUP (Satez Div.), Guwahati (SEPT/2019) –(DEC/2019)**
-· Sales Projection Report.
-· Target vs Sales Analysis
-· TA-DA bills checking of all Sales and Marketing Department.
-· Product & month wise sales Report.
-· Sales, collection, closing stock, daily, weekly and monthly MIS Report.
-· Preparation of daily attendance report of sales personnel’s
-
-📌**MANAGEMENT INFORMATION SYSTEM (LOGISTICS CO-ORDINATOR) | 
-STAR CEMENT, Guwahati (NOV/2016) – (MAR/2018)**
-· Passing bills according to the company’s norms and regulations.
-· Reconciliation and correction of bills.
-· Updating bills on Excel sheet and company’s ERP software.
-· Transporter’s follow up on daily basis regarding all valid and mandatory documents.
-· Sending report on daily, weekly and monthly basis.
-· Warehousing (material receipt, dispatch order, stock maintenance).
-· Handled and oversaw the daily transport of art and objects.
-
-## ✒️ Education:
--📕Data Analytics with Visualization| IVY Professional School, Kolkata 
-(Currently pursuing)
-
--📕Post graduate Diploma in Computer Application | Excel-IT, Guwahati 
-(2020-2021)
-
--📕Bachelor of Commerce (management)| K. C. Das Commerce College Guwahati 
-(2012-2014)
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rajdeep-chakraborty) [![GMAIL](https://img.shields.io/badge/GMAIL-%230077B5.svg?logo=GMAIL&logoColor=RED)](mr.rajdeep.chakraborty@gmail.com)
 
