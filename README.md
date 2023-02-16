@@ -13,7 +13,7 @@ Rajdeep is an aspiring data analyst with a passion for turning raw data into act
 (https://drive.google.com/file/d/1XQ0IaJ8H1jdtnNiMwTgljWvY6y9yCwGX/view?usp=sharing)
 
 # 🌎 **CLICK HERE FOR MY WEBSITE PORTFOLIO** 
-https://brick-ninja-1869.typedream.app/
+https://rajdeep_portfolio.typedream.app/
 
 
 ## 🌐 Socials:
