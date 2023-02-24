@@ -20,7 +20,7 @@ https://rajdeepportfolio.typedream.app/
 How to reach me: [LinkedIn -Rajdeep Chakraborty](https://linkedin.com/in/rajdeep-chakraborty/)
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rajdeep-chakraborty) [![GMAIL](https://img.shields.io/badge/GMAIL-%230077B5.svg?logo=GMAIL&logoColor=RED)](mr.rajdeep.chakraborty@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rajdeep-chakraborty/) [![GMAIL](https://img.shields.io/badge/GMAIL-%230077B5.svg?logo=GMAIL&logoColor=RED)](mr.rajdeep.chakraborty@gmail.com)
 
 # 💻 Tech Stack:
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![POWERPOINT](https://img.shields.io/badge/POWERPOINT-FF1B2D.svg?style=for-the-badge&logo=powerpoint&logoColor=red) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![excel](https://img.shields.io/badge/EXCEL-%2344A833.svg?style=for-the-badge&logo=excel&logoColor=white) ![POWERBI](https://img.shields.io/badge/POWERBI-%23150458.svg?style=for-the-badge&logo=powerbi&logoColor=yellow)
