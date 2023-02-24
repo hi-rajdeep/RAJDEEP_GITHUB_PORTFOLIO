@@ -10,10 +10,10 @@ Rajdeep is an aspiring data analyst with a passion for turning raw data into act
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 # 💼 **CLICK HERE FOR MY RESUME** 
-https://drive.google.com/file/d/just_a_demo/hahaha/;-p
+CLICK HERE:[MY_RESUME](https://drive.google.com/file/d/just_a_demo/hahaha/;-p)
 
 # 🌎 **CLICK HERE FOR MY WEBSITE PORTFOLIO** 
-[Rajdeep-Portfolio](https://rajdeepportfolio.typedream.app/)    
+CLICK HERE:[Rajdeep-Portfolio](https://rajdeepportfolio.typedream.app/)    
 
 
 ## 🌐 Socials:
