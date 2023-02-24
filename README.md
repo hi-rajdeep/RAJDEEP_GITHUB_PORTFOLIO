@@ -13,13 +13,10 @@ Rajdeep is an aspiring data analyst with a passion for turning raw data into act
 https://drive.google.com/file/d/just_a_demo/hahaha/;-p
 
 # 🌎 **CLICK HERE FOR MY WEBSITE PORTFOLIO** 
-https://rajdeepportfolio.typedream.app/
+[Rajdeep-Portfolio](https://rajdeepportfolio.typedream.app/)    
 
 
 ## 🌐 Socials:
-How to reach me: [LinkedIn -Rajdeep Chakraborty](https://linkedin.com/in/rajdeep-chakraborty/)
-
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rajdeep-chakraborty/) [![GMAIL](https://img.shields.io/badge/GMAIL-%230077B5.svg?logo=GMAIL&logoColor=RED)](mr.rajdeep.chakraborty@gmail.com)
 
 # 💻 Tech Stack:
