@@ -17,6 +17,9 @@ https://rajdeepportfolio.typedream.app/
 
 
 ## 🌐 Socials:
+How to reach me: [LinkedIn -Rajdeep Chakraborty](https://linkedin.com/in/rajdeep-chakraborty/)
+
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rajdeep-chakraborty) [![GMAIL](https://img.shields.io/badge/GMAIL-%230077B5.svg?logo=GMAIL&logoColor=RED)](mr.rajdeep.chakraborty@gmail.com)
 
 # 💻 Tech Stack:
