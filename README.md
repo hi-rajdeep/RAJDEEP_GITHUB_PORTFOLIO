@@ -4,8 +4,8 @@
 I’m a detail-oriented Analyst with over 3 years of experience in transforming raw data into meaningful business insights. Skilled in tools like SQL,Python,VBA & Macro, Excel, Googlesheets, Looker, Tableau and Power BI, I specialize in creating automated dashboards and preparing reports that support strategic decision-making.<br><br>Throughout my career, I’ve worked closely with cross-functional teams to streamline reporting processes, reduce manual effort, and improve reporting accuracy. Whether it's tracking KPIs, analyzing trends, or building real-time reporting solutions, I bring a results-driven approach backed by strong analytical thinking and business understanding.<br><br>If it has rows, columns, and a story to tell — I’m your person! 📊 Let’s connect !!
 
 - 🔭 I’m currently working on Projects.
-- 🌱 I’m currently learning Data Engineering and Task Automation.
-- 🤝 I’m looking to collaborate on Agentic AI projects. 
+- 🌱 I’m currently learning Data Engineering and Agentic AI projects.
+- 🤝 I’m looking to collaborate on Data related Projects. 
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
