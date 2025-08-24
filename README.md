@@ -1,11 +1,11 @@
 ![logo](https://github.com/hi-rajdeep/RESUME/blob/main/Github%20resume%20cover%20pic.png)
 
 # 💫 About Me:
-Rajdeep is an aspiring data analyst with a passion for turning raw data into actionable insights. Rajdeep has a strong foundation in math and statistics, and always looking for new ways to apply his skills to real-world problems. In his free time, you'll find him tinkering with data sets and exploring new tools and techniques. <br><br>In Working experience, Rajdeep is an Analytically driven professional having working in Management Information Systems for around 2+ years, and around 3+ years of experience overall ,in helping business <br>scale up and achieve operational excellence.<br><br>Now Rajdeep is looking to build his career as a Data Science Enthusiast, with a view to grow his career in the field of Analytics.
+I’m a detail-oriented Analyst with over 3 years of experience in transforming raw data into meaningful business insights. Skilled in tools like SQL,Python,VBA & Macro, Excel, Googlesheets, Looker, Tableau and Power BI, I specialize in creating automated dashboards and preparing reports that support strategic decision-making.<br><br>Throughout my career, I’ve worked closely with cross-functional teams to streamline reporting processes, reduce manual effort, and improve reporting accuracy. Whether it's tracking KPIs, analyzing trends, or building real-time reporting solutions, I bring a results-driven approach backed by strong analytical thinking and business understanding.<br><br>If it has rows, columns, and a story to tell — I’m your person! 📊 Let’s connect !!
 
-- 🔭 I’m currently working on Projects (also, I am brushing up my data structures and algorithms skills regularly).
-- 🌱 I’m currently learning Data Science & Machine Learning Language .
-- 🤝 I’m looking to collaborate on data science and machine learning projects. 
+- 🔭 I’m currently working on Projects.
+- 🌱 I’m currently learning Data Engineering and Task Automation.
+- 🤝 I’m looking to collaborate on Agentic AI projects. 
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
